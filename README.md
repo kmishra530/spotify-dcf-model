@@ -7,3 +7,6 @@ This project provides a detailed intrinsic valuation of Spotify using a discount
 - Estimated WACC using CAPM and capital structure
 - Applied terminal value calculations
 - Ran scenario and sensitivity analysis on growth and discount rates and bull/bear cases
+
+## Included
+- Please download DCF model excel workbook
